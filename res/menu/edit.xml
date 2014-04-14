@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.spiretos.nokia.mynotes.MainActivity" >
+
+    <item android:id="@+id/action_save"
+          android:icon="@drawable/ic_action_save"
+          android:title="@string/action_save"
+          android:showAsAction="always" />
+
+</menu>
